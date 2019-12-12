@@ -1,0 +1,24 @@
+{
+  "name": "liveintenttakehome",
+  "version": "1.0.0",
+  "description": "## 1. Clone repo",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor ./protractor.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lochoa11/LiveIntentTakeHome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lochoa11/LiveIntentTakeHome/issues"
+  },
+  "homepage": "https://github.com/Lochoa11/LiveIntentTakeHome#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "^5.4.2"
+  }
+}
+

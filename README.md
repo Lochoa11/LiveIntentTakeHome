@@ -31,5 +31,5 @@ This starts the Selenium Server. The Protractor tests send request to this serve
 ## 4. Run the tests
 Next to run the tests run the following command
 ```
-protractor conf.js
+protractor protractor.config.js
 ```

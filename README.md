@@ -5,13 +5,13 @@ Clone the repo by running the following git command:
 git clone git@github.com:Lochoa11/LiveIntentTakeHome.git
 ```
 
-Make sure node is installed. To run this program install Protractor by running following npm command:
+Make sure node is installed. To run the tests install Protractor by running following npm command:
 
 ```
 npm install -g protractor
 ```
 
-this installs both `protractor` and `webdriver-manager` tools.
+This installs both `protractor` and `webdriver-manager` tools.
 
 `webdriver-manager` is a helper tool used to run an instance of the Selenium Server. Download the necessary binaries by running:
 
